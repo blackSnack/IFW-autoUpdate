@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Online Test</Name>
+    <Version>1.0.0</Version>
+    <Title>Online Installer Example</Title>
+    <Publisher>yunfeng</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>OnLine Test</StartMenuDir>
+    <TargetDir>@HomeDir@/IfwExamples/online</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>https://raw.githubusercontent.com/blackSnack/IFW-autoUpdate/master/</Url>
+        </Repository>
+    </RemoteRepositories>
+</Installer>

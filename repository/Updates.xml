@@ -1,0 +1,16 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.one.ifw</Name>
+  <DisplayName>MyApp</DisplayName>
+  <Description>The first ifw installer.</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2019-11-11</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="86922365" CompressedSize="15670760" OS="Any"/>
+  <DownloadableArchives>bin.7z</DownloadableArchives>
+  <SHA1>eb50b1717df9abc337f0b439ac65ed9870913c38</SHA1>
+ </PackageUpdate>
+</Updates>
